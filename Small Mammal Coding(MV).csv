@@ -1,0 +1,24 @@
+Year,Month,Date,Control,SGL,Plot,Transect,Trap,ID,Recapture,Specimen.Species,Sex,Age,Total.WT,Bag.WT,Animal.Weight,Ear.length,Foot.length,Tail.length,Body.length,Larvae,Nymphs,Ticks.Total
+2021,August,8/6/2021,C,SGL176,SUMMER CONTROL,,24,N/A,N,MV,,,,,,,,,,,,
+2021,May,5/19/2021,C,SGL103 NORTH,SPRING CONTROL,,25,N/A,N,MV,,,,,,,,,,,,
+2021,May,5/26/2021,C,SGL176,SUMMER CONTROL,,23,N/A,N,MV,,,,,,,,,,,,
+2021,May,5/26/2021,C,SGL176,SUMMER CONTROL,,30,N/A,N,MV,,,,,,,,,,,,
+2021,May,5/28/2021,C,SGL33,SUMMER CONTROL,,20,N/A,N,MV,,,,,,,,,,,,
+2021,October,10/1/2021,C,SGL176,SUMMER CONTROL,,27,N/A,N,MV,,,,,,,,,,,,
+2021,October,10/1/2021,C,SGL33,FALL CONTROL,,1,N/A,N,MV,,,,,,,,,,,,
+2021,October,10/1/2021,C,SGL33,FALL CONTROL,,13,N/A,N,MV,,,,,,,,,,,,
+2021,September,9/29/2021,C,SGL33,FALL CONTROL,,1,N/A,N,MV,,,,,,,,,,,,
+2021,September,9/30/2021,C,SGL176,SPRING CONTROL,,28,N/A,N,MV,,,,,,,,,,,,
+2021,September,9/30/2021,C,SGL176,SPRING CONTROL,,30,N/A,N,MV,,,,,,,,,,,,
+2021,September,9/30/2021,C,SGL176,SUMMER CONTROL,,30,N/A,N,MV,,,,,,,,,,,,
+2021,September,9/30/2021,C,SGL33,FALL CONTROL,,1,N/A,N,MV,,,,,,,,,,,,
+2022,July,7/20/2022,C,SGL33,SPRING CONTROL,,4,N/A,N,MV,,,,,,,,,,,,
+2022,July,7/22/2022,C,SGL33,SPRING CONTROL,,9,N/A,N,MV,,,,,,,,,,,,
+2022,June,6/3/2022,C,SGL33,SPRING CONTROL,,14,N/A,N,MV,,,,,,,,,,,,
+2022,June,6/5/2022,C,SGL33,FALL CONTROL,,10,N/A,N,MV,,,,,,,,,,,,
+2022,June,6/6/2022,C,SGL33,FALL CONTROL,,13,N/A,N,MV,,,,,,,,,,,,
+2022,October,10/17/2022,C,SGL33,FALL CONTROL,,28,N/A,N,MV,,,,,,,,,,,,
+2024,June,6/14/2024,C,SGL103,3,A,2,GREEN455,N,MV,F,AD,68,21,47,1.1,,,10.8,,,0
+2024,June,6/7/2024,C,SGL33,5,B,6,GREEN153,N,MV,M,AD,82,40,42,1.2,,,12.2,,,3
+2024,June,6/14/2024,C,SGL103,3,A,4,BLACK279,N,MV,F,AD,59,15,44,,,,,,,0
+2024,June,6/6/2024,C,SGL33,5,A,6,,N,MV,,,,,,,,,,,,
