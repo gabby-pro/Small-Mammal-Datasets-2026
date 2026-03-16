@@ -1,0 +1,33 @@
+Gamelands,Plot,Plot size (H),Treatment,Total Ticks,Total Animals Captured,Mice Captured,Canopy closure %,Dominate Tree,Broad # Trees per Plot section,Broad Dominant Tree,Total coverage %,Dominant US Cover 1,Broad US Cover 1,USC1 Invasive?,Cover Class 1,CC1%,Midpt.1,Dominant US Cover 2,Broad US Cover 2,USC2 Invasive? ,Cover Class 2,CC2%,Midpt.2,Soil Texture ,Soil Moisture %,Litter Depth (cm),Soil Moisture %,Litter Depth (cm)
+SGL 103,1,0.0091,CON,15,10,10,75,Red maple ,6,Mid-successional hardwoods ,66.67,Rhizomatous fern,Ferns,No,3,26–50,38,Leaf Litter,Non-vegetative cover,No,3,26–50,38,silt loam,62.9,3,62.9,3
+SGL 103,2,0.0091,2D,29,6,5,25,Pitch pine,1,Coniferous ,100,Wild strawberry,Forbs,No,5,76–95,85.5,Arrow-leaved tearthumb,Forbs,No,3,26–50,38,loam,48.39,0.5,48.39,0.5
+SGL 103,3,0.0091,6D,21,5,5,75,Red maple ,5,Mid-successional hardwoods ,60,Rhizomatous fern,Ferns,No,3,26–50,38,Sedge,Graminoids,No,3,26–50,38,silt loam,36.58,1,36.58,1
+SGL 103,4,0.0091,CON,76,10,6,75,Sweet birch ,4,Mid-successional hardwoods ,50,Leaf Litter,Non-vegetative cover,No,4,51–75,63,Lowbush blueberry ,Woody shrubs,No,2,5–25,15,silt loam,38.08,1,38.08,1
+SGL 103,5,0.0091,2D,26,9,9,100,Scarlet oak ,4,Oak groups (mast-producing),50,Rhizomatous fern,Ferns,No,4,51–75,63,Leaf Litter,Non-vegetative cover,No,3,26–50,38,silt loam,53.27,2,53.27,2
+SGL 103,5,0.0091,2D,26,9,9,100,White oak ,4,Oak groups (mast-producing),50,Rhizomatous fern,Ferns,No,4,51–75,63,Leaf Litter,Non-vegetative cover,No,3,26–50,38,silt loam,53.27,2,53.27,2
+SGL 103,6,0.0091,6D,39,7,7,100,Red maple ,5,Mid-successional hardwoods ,60,Rhizomatous fern,Ferns,No,3,26–50,38,Leaf Litter,Non-vegetative cover,No,3,26–50,38,silt loam,42.6,2,42.6,2
+SGL 103,7,0.0091,CON,57,3,3,75,Red maple ,3,Mid-successional hardwoods ,66.67,Rhizomatous fern,Ferns,No,6,>95,97.5,Red oak germ ,Tree seedlings,No,3,26–50,38,silt loam,38.24,2,38.24,2
+SGL 103,8,0.0091,2D,65,5,5,100,Mockernut hickory ,10,Other mast-producing hardwoods,20,CWD,Non-vegetative cover,No,6,>95,97.5,White snakeroot,Forbs,No,2,5–25,15,silt loam,46.29,5,46.29,5
+SGL 103,9,0.0091,6D,30,9,8,75,Sassafras ,6,Early-successional hardwoods,60,Leaf Litter,Non-vegetative cover,No,4,51–75,63,Red oak germ ,Tree seedlings,No,3,26–50,38,silt loam ,18.94,3,18.94,3
+SGL 176,1,0.0091,CON,10,16,15,100,Red maple ,3,Mid-successional hardwoods ,100,Leaf Litter,Non-vegetative cover,No,5,76–95,85.5,Lowbush blueberry ,Woody shrubs,No,2,5–25,15,sandy,59.51,0.1,59.51,0.1
+SGL 176,2,0.0091,2D,11,11,10,100,Bigtooth aspen,8,Early-successional hardwoods,37.5,Rhizomatous fern,Ferns,No,4,51–75,63,Leaf Litter,Non-vegetative cover,No,2,5–25,15,sandy,45.57,0.15,45.57,0.15
+SGL 176,3,0.0091,6D,57,16,16,100,Bigtooth aspen,9,Early-successional hardwoods,66.66,Leaf Litter,Non-vegetative cover,No,3,26–50,38,Highbush blueberry,Woody shrubs,No,2,5–25,15,clay,42.01,0.13,42.01,0.13
+SGL 176,4,0.0091,CON,49,7,7,100,Red maple ,2,Mid-successional hardwoods ,50,Wild strawberry,Forbs,No,3,26–50,38,Virginia creeper,Woody vines ,No,2,5–25,15,clay loam,27.01,0.46,27.01,0.46
+SGL 176,4,0.0091,CON,49,7,7,100,Scarlet oak ,2,Oak groups (mast-producing),50,Wild strawberry,Forbs,No,3,26–50,38,Virginia creeper,Woody vines ,No,2,5–25,15,clay loam,27.01,0.46,27.01,0.46
+SGL 176,5,0.0091,2D,30,5,5,100,Red maple ,6,Mid-successional hardwoods ,33.33,White oak germ,Tree seedlings,No,5,76–95,85.5,Lowbush blueberry ,Woody shrubs,No,2,5–25,15,silt loam,20.89,0.51,20.89,0.51
+SGL 176,6,0.0091,6D,70,11,11,100,White oak ,8,Oak groups (mast-producing),50,Leaf Litter,Non-vegetative cover,No,4,51–75,63,White oak germ,Tree seedlings,No,2,5–25,15,silt loam,41.75,0.64,41.75,0.64
+SGL 176,7,0.0091,CON,47,9,6,75,White pine,1,Coniferous ,100,Leaf Litter,Non-vegetative cover,No,4,51–75,63,Lowbush blueberry ,Woody shrubs,No,2,5–25,15,silt loam ,56.15,0.64,56.15,0.64
+SGL 176,8,0.0091,2D,67,3,3,100,Scarlet oak ,5,Oak groups (mast-producing),20,Leaf Litter,Non-vegetative cover,No,5,76–95,85.5,Rhizomatous fern,Ferns,No,2,5–25,15,sandy loam,51.34,0.51,51.34,0.51
+SGL 176,9,0.0091,6D,55,5,4,100,Red maple ,5,Mid-successional hardwoods ,80,Japanese stiltgrass,Graminoids,Yes,6,>95,97.5,Garlic mustard,Forbs,Yes,2,5–25,15,clay loam,43.56,0,43.56,0
+SGL 33,1,0.0091,CON,61,6,5,100,Sassafras ,5,Other mast-producing hardwoods,40,Wintergreen ,Forbs,No,3,26–50,38,Leaf Litter,Non-vegetative cover,No,3,26–50,38,silt loam,63.39,0.08,63.39,0.08
+SGL 33,2,0.0091,2D,52,11,6,50,Sassafras ,3,Other mast-producing hardwoods,66.67,Leaf Litter,Non-vegetative cover,No,5,76–95,85.5,Wintergreen ,Forbs,No,2,5–25,15,silt loam,51.62,0.18,51.62,0.18
+SGL 33,3,0.0091,6D,69,8,6,100,Chestnut oak ,3,Oak groups (mast-producing),66.67,Leaf Litter,Non-vegetative cover,No,4,51–75,63,Wild sarsaparilla ,Forbs,No,3,26–50,38,silt loam,65.9,0.23,65.9,0.23
+SGL 33,4,0.0091,CON,54,5,5,75,Sassafras ,5,Other mast-producing hardwoods,80,Leaf Litter,Non-vegetative cover,No,3,26–50,38,Lowbush blueberry ,Woody shrubs,No,2,5–25,15,silt loam,61.74,0.13,61.74,0.13
+SGL 33,5,0.0091,2D,4,5,4,75,Sassafras ,5,Other mast-producing hardwoods,40,Wild strawberry,Forbs,No,5,76–95,85.5,Leaf Litter,Non-vegetative cover,No,3,26–50,38,silt loam,56.99,0.58,56.99,0.58
+SGL 33,6,0.0091,6D,5,7,4,100,NA,0,,0,Red oak germ ,Tree seedlings,No,5,76–95,85.5,Wild strawberry ,Forbs,No,5,76–95,85.5,silt loam,26.03,0.69,26.03,0.69
+SGL 33,7,0.0091,CON,7,10,2,75,Red oak ,9,Oak groups (mast-producing),77.78,CWD,Non-vegetative cover,No,5,76–95,85.5,Rhizomatous fern,Ferns,No,2,5–25,15,silt loam,56.97,0.48,56.97,0.48
+SGL 33,8,0.0091,2D,12,13,11,50,Sassafras ,4,Other mast-producing hardwoods,50,Wintergreen ,Forbs,No,3,26–50,38,Lowbush blueberry ,Woody shrubs,No,2,5–25,15,silt loam,59.8,0.25,59.8,0.25
+SGL 33,9,0.0091,6D,6,15,14,100,Red maple ,7,Mid-successional hardwoods ,42.85,Wintergreen ,Forbs,No,3,26–50,38,Leaf Litter,Non-vegetative cover,No,2,5–25,15,silt loam,65,0.41,65,0.41
+SGL 33,10,0.0091,CON,20,13,12,100,Red oak ,3,Oak groups (mast-producing),66.67,Wild sarspaparilla,Forbs,No,3,26–50,38,Leaf Litter,Non-vegetative cover,No,2,5–25,15,silt loam,53.43,0.64,53.43,0.64
+SGL 33,11,0.0091,2D,29,10,10,50,NA,0,,0,Sedge,Graminoids,No,2,5–25,15,Wild strawberry ,Forbs,No,2,5–25,15,sandy,26.89,0.28,26.89,0.28
+SGL 33,12,0.0091,6D,21,10,10,75,White oak ,5,Oak groups (mast-producing),60,New York fern ,Ferns,No,3,26–50,38,Leaf Litter,Non-vegetative cover,No,2,5–25,15,sandy,47.65,0.38,47.65,0.38
